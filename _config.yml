@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG_20220916_103726.jpg"
   bio    : " Hello and welcome to this website my name is Nima Gharaee Bachelor's student in computer engineering  in IAUM."
   links:
     - label: "Website"
