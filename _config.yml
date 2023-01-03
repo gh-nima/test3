@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : " Hello and welcome to this website my name is Nima Gharaee Bachelor's student in computer engineering  in IAUM."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
