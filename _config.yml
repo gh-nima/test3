@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Islamic Azad University
+logo : assets/images/AULogoWithGlowChanged.png
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to this website my name is Nima Gharaee Bachelor's student in computer engineering  in IAUM  
