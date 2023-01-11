@@ -34,7 +34,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 header:
-  overlay_image: assets/images/Teaser.png
+  image: assets/images/wallpaper (1130).jpg
 
 footer:
   links:
