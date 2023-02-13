@@ -24,6 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
 search: true
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
