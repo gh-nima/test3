@@ -5,7 +5,7 @@ permalink: /categories/
 author_profile: true
 ---
 ---
-Artificial Intelligence 
+Artificial Intelligence  هوش مصنوعی 
 permalink : Artificial Intelligence
 ---
 ---
