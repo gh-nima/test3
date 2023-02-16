@@ -1,7 +1,10 @@
 main:
-  - title: "Posts"
+  - title: "Artificial Intelligence"
     url: /posts/
-  - title: "Categories"
+  - title: "Computational Intelligence"
     url: /categories/
   - title : "About"
     url: /about/
+dropdown : 
+ - title : let
+  -url : /about/
