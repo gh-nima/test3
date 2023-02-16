@@ -5,6 +5,4 @@ main:
     url: /categories/
   - title : "About"
     url: /about/
-dropdown : 
- - title : let
-  -url : /about/
+
