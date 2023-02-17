@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Islamic Azad University
+teaser: assets/images/header_unsplash_12.jpg 
 logo : assets/images/AULogoWithGlowChanged.png
 
 
@@ -78,9 +79,6 @@ plugins:
 
 
 defaults:
- 
-header:
- teaser: assets/images/header_unsplash_12.jpg
  
  # _posts
   - scope:
