@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Islamic Azad University
 logo : assets/images/AULogoWithGlowChanged.png
-teaser: assets/images/wallpaper (1130).jpg
+
 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -96,6 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      teaser: assets/images/wallpaper (1130).jpg
 
 category_archive:
   type: liquid
