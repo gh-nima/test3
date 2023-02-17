@@ -5,10 +5,10 @@ permalink: /categories/
 author_profile: true
 ---
 ---
-Artificial Intelligence  هوش مصنوعی 
-permalink : Artificial Intelligence
+title:  "Artificial Intelligence " 
+permalink:  /Artificial Intelligence/
 ---
 ---
-Computational Intelligence
-permalink Intelligence
+title:  "Computational Intelligence"
+permalink:  /Intelligence/
 ---
