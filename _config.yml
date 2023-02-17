@@ -96,7 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      teaser: assets/images/wallpaper (1130).jpg
+    
 
 category_archive:
   type: liquid
