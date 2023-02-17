@@ -51,6 +51,9 @@ footer:
 
 
 include:
+classes: wide
+header:
+ teaser: assets/images/header_unsplash_12.jpg
   - _pages
 
 # Exclude from processing.
