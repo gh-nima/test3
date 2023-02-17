@@ -78,7 +78,7 @@ plugins:
 
 
 defaults:
- classes: wide
+ 
 header:
  teaser: assets/images/header_unsplash_12.jpg
  
