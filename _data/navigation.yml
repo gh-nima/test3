@@ -1,6 +1,6 @@
 main:
   - title: "Artificial Intelligence"
-    url: /_pages/AI.md/
+    url: /_pages/AI/
   - title: "Computational Intelligence"
     url: /categories/
   - title : "About"
