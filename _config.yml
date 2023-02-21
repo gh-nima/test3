@@ -14,8 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Islamic Azad University
-teaser: assets/images/header_unsplash_12.jpg 
 logo : assets/images/AULogoWithGlowChanged.png
+header:
+  image: assets/images/header_unsplash_12.jpg
+  teaser: assets/images/header_unsplash_12.jpg
 
 
 email:
