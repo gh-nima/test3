@@ -1,6 +1,6 @@
 main:
   - title: "Artificial Intelligence"
-    url: /posts/
+    url: /AI/
   - title: "Computational Intelligence"
     url: /categories/
   - title : "About"
