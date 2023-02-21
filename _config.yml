@@ -42,14 +42,17 @@ timezone: IR
 footer:
   links:
     - label: "Telegram"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://telegram.org/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/" 
+      label: "Linkdin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
 
 
 
